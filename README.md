@@ -1,3 +1,3 @@
 # Lethal-Guys
 This is my first git repository.
-Author - Prateek Kumar
+Author - Prateek Kumar aka (kira)
